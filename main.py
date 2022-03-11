@@ -2,7 +2,7 @@ from first.nums import plus
 
 
 def print_hi(name):
-    print(f'Hi, {name}')
+    print(f'Hi, {name}') #asd
 
 #sdfsdf
 if __name__ == '__main__':
